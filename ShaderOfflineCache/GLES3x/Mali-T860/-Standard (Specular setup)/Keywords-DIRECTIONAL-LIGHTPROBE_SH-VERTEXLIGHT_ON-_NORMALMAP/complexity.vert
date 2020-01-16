@@ -1,0 +1,3 @@
+version:0
+keywords: DIRECTIONAL LIGHTPROBE_SH VERTEXLIGHT_ON _NORMALMAP
+instructions:53-30-0-1

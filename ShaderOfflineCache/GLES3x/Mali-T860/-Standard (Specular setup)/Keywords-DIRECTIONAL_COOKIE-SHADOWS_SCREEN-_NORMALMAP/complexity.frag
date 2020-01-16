@@ -1,0 +1,3 @@
+version:0
+keywords: DIRECTIONAL_COOKIE SHADOWS_SCREEN _NORMALMAP
+instructions:36-22-4-1

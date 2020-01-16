@@ -1,0 +1,3 @@
+version:0
+keywords: DIRECTIONAL SHADOWS_SCREEN LIGHTPROBE_SH _NORMALMAP
+instructions:33-17-0-1

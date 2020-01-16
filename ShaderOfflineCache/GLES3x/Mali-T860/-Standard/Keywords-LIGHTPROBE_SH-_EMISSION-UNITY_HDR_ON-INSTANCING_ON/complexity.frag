@@ -1,0 +1,3 @@
+version:0
+keywords: LIGHTPROBE_SH _EMISSION UNITY_HDR_ON INSTANCING_ON
+instructions:36-12-3-0

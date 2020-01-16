@@ -1,0 +1,3 @@
+version:0
+keywords: DIRECTIONAL SHADOWS_SCREEN VERTEXLIGHT_ON
+instructions:67-9-5-1

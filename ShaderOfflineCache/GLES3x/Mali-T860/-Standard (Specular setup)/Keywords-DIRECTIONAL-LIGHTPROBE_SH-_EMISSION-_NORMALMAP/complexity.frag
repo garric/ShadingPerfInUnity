@@ -1,0 +1,3 @@
+version:0
+keywords: DIRECTIONAL LIGHTPROBE_SH _EMISSION _NORMALMAP
+instructions:22-7-6-1

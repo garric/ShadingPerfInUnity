@@ -1,0 +1,3 @@
+version:0
+keywords: DIRECTIONAL SHADOWS_SCREEN _EMISSION _NORMALMAP
+instructions:71-12-7-1

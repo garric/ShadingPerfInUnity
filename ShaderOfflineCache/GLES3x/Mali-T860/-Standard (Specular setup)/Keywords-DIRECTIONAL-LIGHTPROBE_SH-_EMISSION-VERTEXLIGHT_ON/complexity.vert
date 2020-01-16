@@ -1,0 +1,3 @@
+version:0
+keywords: DIRECTIONAL LIGHTPROBE_SH _EMISSION VERTEXLIGHT_ON
+instructions:48-29-0-1

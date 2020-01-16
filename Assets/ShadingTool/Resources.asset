@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2f65ec3ba9cdea44874fe7ca82b0b97, type: 3}
+  m_Name: Resources
+  m_EditorClassIdentifier: 
+  shaders:
+    shaderComplexity: {fileID: 4800000, guid: a9960d031f6c38c429e9a12f82dad8d3, type: 3}
+    shaderComplexityDepth: {fileID: 4800000, guid: f3f472ad587044040a3b9d3e50edd626,
+      type: 3}
+    quadOverdrawAccumulate: {fileID: 4800000, guid: ce3e289e1b09e0f4e9dc533ab0c5fc4d,
+      type: 3}
+    quadOverdrawAccumulateDepth: {fileID: 4800000, guid: 5c9666cab6ec2e4449ccc7f6f9ce40a9,
+      type: 3}
+    quadOverdrawApply: {fileID: 4800000, guid: fa9da35edb8381b4080a90f5a7a7fb19, type: 3}
+    quadOverdrawClear: {fileID: 4800000, guid: 8e93b613ee30a6544b312ad9cef40703, type: 3}

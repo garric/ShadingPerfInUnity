@@ -1,0 +1,3 @@
+version:0
+keywords: DIRECTIONAL SHADOWS_SCREEN VERTEXLIGHT_ON _NORMALMAP
+instructions:67-11-6-1
